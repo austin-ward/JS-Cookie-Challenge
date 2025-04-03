@@ -3,6 +3,8 @@ Instructions:
 
 Create a basic HTML page with the following elements:
 
+# Adding a touch of personality 🍪
+
 A button that allows the user to set a cookie (e.g., their name or a favorite color).
 A display area where the current cookie value will be shown.
 A button that allows the user to delete the cookie.
